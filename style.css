@@ -1,0 +1,18 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    background-color: coral;
+}
+
+.hi{
+    border: dashed black;
+    border-radius: 20px;
+}
+
+canvas{
+    border: 2px dashed black;
+    box-shadow: 5px 5px 5px red;
+    margin-top: 190px;
+}
